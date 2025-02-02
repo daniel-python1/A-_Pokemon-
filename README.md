@@ -18,5 +18,5 @@ Welcome to the **A* Pathfinding Car Simulator** repository! This project showcas
 
 - **JavaScript**: Core programming language for simulation logic.
 - **p5.js**: Library for creative coding and rendering visuals.
-- **A* Algorithm**: Optimized pathfinding algorithm for efficient navigation.
+- **A Star Algorithm**: Optimized pathfinding algorithm for efficient navigation.
 - **OOP (Object-Oriented Programming)**: Modular code structure for cars, grid, and pathfinding logic.
